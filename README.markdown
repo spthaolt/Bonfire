@@ -1,4 +1,4 @@
-# Faster Development of CodeIgniter 2.1.3 Apps
+# Faster Development of CodeIgniter 2.x Apps
 
 <div style="float: right; margin: 0 20px 20px 0">
 	<a href='http://www.pledgie.com/campaigns/15326'><img alt='Click here to lend your support to: Bonfire - faster CodeIgniter development and make a donation at www.pledgie.com !' src='http://pledgie.com/campaigns/15326.png?skin_name=chrome' border='0' /></a>
@@ -36,21 +36,20 @@ Follow Bonfire's progress and commits at Twitter by following [cibonfire](http:/
 
 If you're interested in helping out, fork the project and start coding! I'd love to have you on board. You can always shoot me an email at lonnieje@gmail.com and we can talk about how you'll best fit it and what the best place to start coding would be.
 
-
 Let's make this the best kick-start to any CodeIgniter project.
 
-## Bug Reports 
+## Bug Reports
 
-We strive to make Bonfire a solid base to work with.  In doing so your Bug Reports are very vital to us.  Before making a Bug Report please check the existing
-[Issue Tracker](https://github.com/ci-bonfire/Bonfire/issues) , if the bug you have found does not exist in the issue tracker already, please text a minute to read the [guide lines](https://github.com/ci-bonfire/Bonfire/wiki/Issue-Tracking-and-Pull-Requests) to making a Good Bug report.
+We strive to make Bonfire a solid base to work with. In doing so your Bug Reports are very vital to us. Before making a Bug Report please check the existing
+[Issue Tracker](https://github.com/ci-bonfire/Bonfire/issues) , if the bug you have found does not exist in the issue tracker already, please text a minute to read the [guide lines](http://cibonfire.com/docs/developer/issue_tracking_and_pull_requests) to making a Good Bug report.
 
 
 ## The Team
 
-The Bonfire Team is made up from developers around the world interested in making Bonfire a better kickstart for your [CodeIgniter](http://codeigniter.com) projects.
+The Bonfire Team is made up of developers from around the world interested in making Bonfire a better kickstart for your [CodeIgniter](http://codeigniter.com) projects.
 
 - [Lonnie Ezell](http://lonnieezell.com) - Lead Developer
-- [Sean Downey](https://github.com/seandowney)
-- [Shawn Crigger](https://github.com/svizion)
-- [Alan Jenkins](https://github.com/sourcejedi)
 - [Mat Whitney](https://github.com/mwhitneysdsu)
+- [Alan Jenkins](https://github.com/sourcejedi)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ci-bonfire/bonfire/trend.png)](https://bitdeli.com/free "Bitdeli Badge").
